@@ -1,0 +1,22 @@
+BELAJAR
+==========
+C	: https://www.learn-c.org/en/Function_arguments_by_reference
+
+C++	: https://www.learn-cpp.org/en/Pointers
+
+Python	: - 
+	  - 
+	  - 
+
+FPGA	: https://www.udemy.com/course/fpga-uart-implementation-communication-protocol-series-vol1/learn/lecture/28100944#announcements
+
+SQL	: progate artikel
+	- https://progate.com/docs/mysql-database-setup
+	- https://progate.com/docs/mysql-column-operations
+
+Golang 	: 
+
+AWS	: 
+
+JS	:
+
